@@ -1,0 +1,19 @@
+{
+  "name": "onrankseo",
+  "owner": {
+    "name": "OnRankSEO",
+    "email": "hello@onrankseo.com"
+  },
+  "metadata": {
+    "description": "OnRankSEO for Claude: real SEO audits with evidence, under rules that forbid promised rankings and invented scores.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "onrank",
+      "source": "./plugins/onrank",
+      "description": "OnRankSEO audits, findings with their evidence, the link plan, the local grid and AI visibility — drafted for a person to sign.",
+      "version": "1.0.0"
+    }
+  ]
+}

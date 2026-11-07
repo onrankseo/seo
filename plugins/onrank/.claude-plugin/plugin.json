@@ -1,0 +1,13 @@
+{
+  "name": "onrank",
+  "version": "1.0.0",
+  "description": "OnRankSEO: run real SEO audits, read findings with their evidence and rule, and draft reports a person signs.",
+  "author": {
+    "name": "OnRankSEO",
+    "email": "hello@onrankseo.com",
+    "url": "https://onrankseo.com"
+  },
+  "homepage": "https://onrankseo.com/mcp",
+  "privacyPolicyUrl": "https://onrankseo.com/privacy",
+  "license": "Proprietary"
+}

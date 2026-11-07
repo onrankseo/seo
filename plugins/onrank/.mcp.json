@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onrankseo": {
+      "type": "http",
+      "url": "https://onrankseo.com/api/mcp"
+    }
+  }
+}
