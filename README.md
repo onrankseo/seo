@@ -33,7 +33,7 @@ These limits are the point: an assistant connected to OnRankSEO can only pass on
 | Tool | What it does | Who can use it |
 |---|---|---|
 | `first_look` | Free first look at one page | any account |
-| `checks_catalogue` | The 38 audit checks | any account |
+| `checks_catalogue` | The 121 audit checks | any account |
 | `score_formula` | The OnRank Score formula | any account |
 | `run_audit` | Start an audit for a client | console account |
 | `audit_status` | Where an audit stands | console account |

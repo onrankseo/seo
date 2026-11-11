@@ -1,6 +1,6 @@
 ---
 name: audit
-description: "Start or continue an OnRankSEO audit for a client: open it, crawl the site with the 38 audit checks, gather the market data and observe competitors. Use when the user asks to audit a client's site, run an audit, or see where an audit stands. Needs an OnRankSEO console account."
+description: "Start or continue an OnRankSEO audit for a client: open it, crawl the site with the 121 audit checks, gather the market data and observe competitors. Use when the user asks to audit a client's site, run an audit, or see where an audit stands. Needs an OnRankSEO console account."
 ---
 
 # OnRankSEO — audit
